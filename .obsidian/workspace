@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "f1ba46d6903624a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "524a9aa445760ced",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes/2021-04-28.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9703f942be749e6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd34962b128b8d05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48a28e9fb9a9c53b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "596c5cde3f94b0be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fb4d56c34a027b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "114fd184f35ba636",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee0d97d45ad2953f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a66c59d3f318b865",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/2021-04-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c5247d3d931ae793",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "d33f65ba8f5a3222",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "524a9aa445760ced",
+  "lastOpenFiles": [
+    "Notes/2021-04-28.md",
+    "Testing/One Liners/Testing.md",
+    "Testing/One Liners/SPIKE.md",
+    "Testing/One Liners/Notepad++.md",
+    "Testing/One Liners/Git.md",
+    "Testing/Reference/Ports.md",
+    "Testing/One Liners/Bash.md",
+    "Formatting.md",
+    "Testing/Environments/Web/Burp Tricks.md",
+    "Testing/Testing.md"
+  ]
+}
